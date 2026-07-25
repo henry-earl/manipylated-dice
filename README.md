@@ -33,7 +33,7 @@ The Manipylated Dice library can be used to generate a dice that rolls in an app
 
 However, as the normal distribution is continuous but the results of a dice roll with a set number of sides is discrete; the rounding of the continuous results of the normal distribution to the discrete results of the rolling of a die creates an over-concentration of results being mapped to values close to the mean especially at smaller standard deviations. 
 
-This increasing accuracy of the approximation of the normal can be seen in Table 1 below which was obtained by rolling a die with 1000 sides, 10,000 times with a mean, _µ_ = 500 and changing the StandDev variable: 
+This increasing accuracy of the approximation of the normal can be seen in Table 1 below which was obtained by rolling a die with 1000 sides, 10,000 times with a mean, µ = 500 and changing the StandDev variable: 
 
 |StandDev|Results within: σ (68%)|2σ (95%)|3σ (99.7%)|
 |---|---|---|---|
@@ -52,5 +52,3 @@ This shows that for a more accurate approximation of the normal distribution a h
 This paper has given a description of Manipylated Dice: a library which allows the creation and rolling of different dice. 
 
 Due to the library being object oriented it’s features can be easily utilised and manipulated by a user to create more complex tools. 
-
-Also, the library is written in a fully modular way, is well documented and is automatically tested. 
