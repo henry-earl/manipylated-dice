@@ -1,6 +1,7 @@
 # Simulating Dice with Python 
 
 Henry Earl, Krishna Kumar, Morgan Stoddart, Jonathan Willis 
+
 April 2025 
 
 ### **Abstract** 
