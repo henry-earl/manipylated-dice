@@ -35,7 +35,7 @@ However, as the normal distribution is continuous but the results of a dice roll
 
 This increasing accuracy of the approximation of the normal can be seen in Table 1 below which was obtained by rolling a die with 1000 sides, 10,000 times with a mean, _µ_ = 500 and changing the StandDev variable: 
 
-|StandDev|Results within: _σ_ (68%)|2_σ_ (95%)|3_σ_ (99.7%)|
+|StandDev|Results within: σ (68%)|2σ (95%)|3σ (99.7%)|
 |---|---|---|---|
 |5|72.69%|96.19%|99.84%|
 |10|71.43%|96.08%|99.75%|
