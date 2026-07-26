@@ -2,8 +2,6 @@
 
 Henry Earl, Krishna Kumar, Morgan Stoddart, Jonathan Willis 
 
-April 2025 
-
 ### **Abstract** 
 
 This paper introduces Manipylated Dice: a Python library that allows for the creation and rolling of various dice. These dice are either rolled with set probabilities or such that the result is approximately normally distributed. 
